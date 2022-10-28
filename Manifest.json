@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Select BAAS",
+    "short_name": "Select",
+    "author": "Gustavo V. Veiga",
+    "description": "seleciona todos os campos do BAAS",
+    "version": "0.0.1",
+    "permissions": ["scripting", "activeTab"],
+    "action": {
+        "default_popup": "index.html"
+    }
+}
